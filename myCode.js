@@ -12,4 +12,4 @@ const courseTitle =document.querySelector(".category-title");
 courseTitle.innerHTML = "Onboarding Steps"
   } 
   
-window.addEventListener("load",edit) 
+edit()
